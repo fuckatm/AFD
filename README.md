@@ -4,8 +4,6 @@ Before we clone repository
 
 https://github.com/fuckatm/AFD.git
 
-
-
 then we connect usb and write in terminal
 
 lsusb
